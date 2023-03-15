@@ -1,2 +1,3 @@
-# Digital-Mareting-Website
+# Digital-Marketing-Website
 by using html,css,javascript
+
